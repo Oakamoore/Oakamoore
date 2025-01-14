@@ -1,5 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <h3>Languages</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs"/>
+  </a>
+  <h3>Frameworks and Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cmake,bash"/>
+  </a>
+  <h3>Software</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,obsidian,unrealengine,unity"/>
+  </a>
+</div>
 
+
+
+  
 <!--
 **Oakamoore/Oakamoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
