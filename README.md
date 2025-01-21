@@ -1,6 +1,5 @@
 <div align="center">
-  <br>Hi, my name is <b>Emmanuel</b>, I'm a <b>graduate game programmer</b>.</br>
-  <br>Here you'll find <b>games</b>, <b>visualisations</b>, <b>simulations</b>, and <b>tools</b> that I've made.</br>
+  <br>Hi, here you'll find <b>games</b>, <b>visualisations</b>, <b>simulations</b>, and <b>tools</b> that I've made.</br>
   <br><b>Languages</b></br>
     <a href=""><img src="https://github.com/user-attachments/assets/f6367141-4b5c-49dc-8894-346fffa8e1d3"width=45 height=40/></a>
     <a href=""><img src="https://github.com/user-attachments/assets/06b2f249-1271-4a3f-8ca8-aeca5ca1328f"width=45 height=40/></a>
