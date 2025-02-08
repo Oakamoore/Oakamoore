@@ -1,9 +1,9 @@
 <div align="center">
   <br>Hi, here you'll find <b>games</b>, <b>visualisations</b>, <b>simulations</b>, and <b>tools</b> that I've made.</br>
   <br><b>Languages</b></br>
-    <a href=""><img src="https://github.com/user-attachments/assets/f6367141-4b5c-49dc-8894-346fffa8e1d3"width=45 height=40/></a>
-    <a href=""><img src="https://github.com/user-attachments/assets/06b2f249-1271-4a3f-8ca8-aeca5ca1328f"width=45 height=40/></a>
-    <a href=""><img src="https://github.com/user-attachments/assets/1280239a-2619-4d21-8d54-d0c72e2eafba"width=45 height=40/></a>
+    <a href="https://github.com/Oakamoore"><img src="https://github.com/user-attachments/assets/f6367141-4b5c-49dc-8894-346fffa8e1d3"width=45 height=40/></a>
+    <a href="https://github.com/Oakamoore"><img src="https://github.com/user-attachments/assets/06b2f249-1271-4a3f-8ca8-aeca5ca1328f"width=45 height=40/></a>
+    <a href="https://github.com/Oakamoore"><img src="https://github.com/user-attachments/assets/1280239a-2619-4d21-8d54-d0c72e2eafba"width=45 height=40/></a>
   <br><b>Frameworks and Tools</b></br>
     <a href="https://git-scm.com/"><img src="https://github.com/user-attachments/assets/2cefdbd9-6374-47ff-b696-07b3c610bb89"width=45 height=40/></a>
     <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/user-attachments/assets/365b5050-3c56-4a14-b445-7413627b43b2"width=45 height=40/></a>
